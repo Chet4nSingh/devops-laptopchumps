@@ -21,6 +21,10 @@ html {
     --HEADING-FONTSIZE: 4rem;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: var(--BG-COLOR);
